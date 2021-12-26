@@ -1,5 +1,5 @@
 --- 
-title: <span style="color:#003300;">Manual para el Rociado Residual Intradomiciliario de las plagas úrbanas en México</span>
+title: <span style="color:#003300;">Manual para el Rociado Residual Intradomiciliario de los Artrópodos con Importancia en Salud Pública en México</span>
 author: <span style="color:#003300;">Felipe Antonio Dzul Manzanilla</span>
 date: "2021: Last compiled `r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -7,9 +7,9 @@ output: bookdown::gitbook
 documentclass: book
 biblio-style: apalike
 link-citations: yes
-github-repo: fdzul/manual_irs_chilpancingo
+github-repo: fdzul/manual_irs
 cover-image: images/cover.jpg
-url: https://fdzul.github.io/manual_irs_chilpancingo/
+url: https://fdzul.github.io/manual_irs/
 favicon: "favicon.ico"
 description: "El manual describe el Rociado Residual Intradomiciliario para el control de plagas úrbanas en México"
 ---
@@ -26,8 +26,8 @@ description: "El manual describe el Rociado Residual Intradomiciliario para el c
 [**bookdown**](https://github.com/rstudio/bookdown) & todas las inciciativas de software libre para el análisis de datos espaciales y no espaciales como [**R**](https://cran.r-project.org/), [**RStudio**](https://www.rstudio.com/) y [**Python**](https://www.python.org/). El libro es de código abierto, asegurando que su contenido es completamente reproducible y públicamente disponible para personal de las instituciones públicas y privadas de México y el resto del mundo.</span>
 
 
-<span style="color:#660033;">La versión online del manual es mantenida en [fdzul.github.io/manual_irs_chilpancingo](https://fdzul.github.io/manual_irs_chilpancingo/) & es actualizada [GitHub Actions](https://github.com/fdzul/manual_irs_chilpancingo/actions), la cual proporciona información sobre el estatus 'build status' con:
-![](https://github.com/fdzul/manual_irs_chilpancingo/actions/workflows/blank.yml/badge.svg) ![](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffdzul%2Fmanual_hotspots.svg?type=shield)
+<span style="color:#660033;">La versión online del manual es mantenida en [fdzul.github.io/manual_irs_chilpancingo](https://fdzul.github.io/manual_irs_chilpancingo/) & es actualizada [GitHub Actions](https://github.com/fdzul/manual_irs/actions), la cual proporciona información sobre el estatus 'build status' con:
+![](https://github.com/fdzul/manual_irs/actions/workflows/blank.yml/badge.svg) ![](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffdzul%2Fmanual_irs.svg?type=shield)
 </span>
 
 
