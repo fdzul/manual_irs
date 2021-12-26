@@ -1,0 +1,27 @@
+# (PART) Sección {-}
+
+# **<span style="color:#003300;">Introducción </span>** {#intro}
+
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019"> 
+
+<span style="color:#660033;">La probabilidad de introdución o reintroducción de agentes infecciosos al país, es más alta ahora que en el pasado (esta afirmación ha sido completamente comprobado con la reciente introdución de COVID-19 ( y la cepa omicron), de tal forma que se ha convertido en un hecho al menos con virus respiratorios). Actualmente, la movilidad del hospedero humano ha permitido pernoctar en al menos dos diferentes países o continentes durante el periódo de incubación intrínseco del agente causal. Por ejemplo un viaje de CDMX a Moscu (Rusia)  o Shangai (China) tarda menos de 18 horas. Así mismo, los movimientos migratorios humanos desde la frontera sur hacia el norte del país, han permitido la introducción de los agentes causales  en los estados fronterizos, establecerse en estos mismos y dispersarse/establecerse en el interior del país.</span>
+
+<span style="color:#660033;">Estos agentes causales pueden ser transmitidas por mosquitos (como la fiebre amarilla (vómito negro), dengue, chikungunya y zika), pueden ser transmitidas por garrapatas (como la enfermedad de Lyme, Fiebre Manchada de las Montañas, ehrlichiosis, y la Babesiosis), pueden ser transmitidas por pulgas (peste (muerte negra)), pueden ser transmitidos por Piojos (tifo), y pueden ser transmitidas por roedores (como hantavirus y letospirosis). Muchas áreas o localidades de México presentan las condiciones ambientales y sociodemográficas ideales para el establecimiento de estos artrópodos con importancia en salud pública y de los gentes causales de estas enfermedades.</span>
+
+<span style="color:#660033;">Así mismo, independientemente de la presencia de mosquitos, pulgas, piojos, chinches, y garrapatas, la transmisión de virus como el dengue, chikungunya, y zika, la transmisión de ***Tripanosoma cruzi***, y la potencial introducción de los agentes infecciosos, muchas localidades de México tienen documentado la presencia de otros artrópodos con importancia en salud pública, como alacranes, viudas negras, y arañas violinistas.</span>
+
+<span style="color:#660033;">El desarrollo de iniciativas de salud pública que consideren la potencial introdución de estos agentes causales, la presencia de vectores potenciales (pulgas, piojos, y garrapatas), la presencia de los artrópodos con importancia en salud pública (mosquitos, triatominos, alacranes y arañas), requieren implementar programas preventivos basados en la biología, ecología y etología de los artrópodos.</span>
+
+<span style="color:#660033;">Los artrópodos con importancia en salud pública viven o ingresan a las viviendas en busca de sus recursos (los recursos pueden ser protección (temperatura, humedad, lluvia, etc), alimento, o parejas sexuales), teniendo contacto con las superficies de las paredes en algún momento de su ciclo de vida. Éstos hábitos etológicos de posar en las paredes después de alimentarse, para buscar pareja, o para buscar alimentación o como refugio proporciona, la oportunidad de implementar a través de técnicas especiales la impregnación de la pared con insecticidas de larga duración con la finalidad de eliminar a los artrópodos que tengan contacto con las superficies tratadas.</span>
+
+<span style="color:#660033;">Tradicionalmente la impregnación de la pared únicamente se realizaba con equipos de aplicación, actualmente existe diferentes formas de llevar el insecticida a la pared como son las pinturas con insecticida y materiales impregnados de insecticida. Estas ultimas dos estrategias innovadoras aun no han sido escaladas y aplicadas globalmente con el rociado residual intradomiciliario. El rociado residual intradomiciliario (RRI) fue desarollado para el control de la malaria desde los años 40s y se usó con éxito para la erradicación de la fiebre amarilla en Mexico. El rociado residual intradomiciliario tradicional aplicado para el control de anofelinos ha sido adaptado para los vectores de las [leishamaniasis urbana](https://www.who.int/tdr/publications/documents/irs_toolkit.pdf) y para el [control de ***Aedes aegypti*** en zonas urbanas](https://www.paho.org/es/documentos/manual-para-aplicar-rociado-residual-intradomiciliario-zonas-urbanas-para-control-aedes).</span>
+
+<span style="color:#660033;">En Mexico, el programa nacional de vectores recomienda el rociado residual para cuatro de los siete Programas de Accción Específico (Rickettiosis, IPPA, DENGUE y La Enfermedad de Chagas) y evidencia reciente sugiere que el RRI debería considerarse para los vectores de las leishmaniasis. Excepto, para el control ***Aedes aegypi***, control de anofelinos y control de ***Flebotomus***, no existen manuales para el resto de los artrópodos con importancia en salud publica</span>.
+
+<span style="color:#660033;">En el presente manual se describen los procedimientos secuenciales de la técnica de rociado residual adaptado para el control de los artrópodos con importancia en salud pública (alacranes, viudas negras, arañas violinistas, pulgas, garrapatas, y triatominos).</span>
+
+
+
+
+
+

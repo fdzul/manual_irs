@@ -1,0 +1,29 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><a href="./"><span style= "color:#660033; font-size:15px; font-weight: bold;">Rociado Residual Intradomiciliario</span></a></li>
+      after: |
+        <li><a href="https://github.com/fdzul" target="blank"> <span style= "color:#660033; font-size:15px; font-weight: bold;">Felipe Dzul-Manzanilla</span> </a></li>
+        <li><a href="https://www.researchgate.net/profile/Fabian-Correa-Morales" target="blank"><span style= "color:#660033; font-size:15px; font-weight: bold;">Fabián Correa-Morales</span></a></li>
+        <li><a href="" target="blank"> <span style= "color:#660033; font-size:15px; font-weight: bold;">Cipriano Gutiérrez-Castro</span></a></li>
+        <li><a href="" target="blank"> <span style= "color:#660033; font-size:15px; font-weight: bold;">Evaristo Morales Ríos</span></a></li>
+        <li><a href="" target="blank"> <span style= "color:#660033; font-size:15px; font-weight: bold;">Heron Huerta</span> </a></li>
+        <img src="https://www.ssaver.gob.mx/wp-content/uploads/2021/04/cropped-logoencabezado6abr2.jpg" alt="SESVER" width="250" height="50">
+        <img src="https://raw.githubusercontent.com/mxabierto/assets/master/img/logos/cenaprece.png" alt="SESVER" width="250" height="100">
+        <img src="https://www.genolifeadn.com/wp-content/uploads/2020/04/indrelogo.png" alt="SESVER" width="100" height="50">
+    edit:
+    download: ["pdf", "epub", "mobi"]
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
+bookdown::epub_book: default
+bookdown::html_book:
+  css: toc.css
+ouput_dir: docs
+citation_package: biblatex

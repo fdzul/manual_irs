@@ -1,0 +1,7 @@
+book_filename: "manual_irs"
+language:
+  ui:
+    chapter_name: "Capítulo "
+delete_merged_file: true
+output_dir: docs
+cover-image: images/cover.jpg

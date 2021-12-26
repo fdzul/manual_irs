@@ -1,0 +1,99 @@
+--- 
+title: <span style="color:#003300;">Manual para el Rociado Residual Intradomiciliario de las plagas úrbanas en México</span>
+author: <span style="color:#003300;">Felipe Antonio Dzul Manzanilla</span>
+date: "2021: Last compiled `r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+github-repo: fdzul/manual_irs_chilpancingo
+cover-image: images/cover.jpg
+url: https://fdzul.github.io/manual_irs_chilpancingo/
+favicon: "favicon.ico"
+description: "El manual describe el Rociado Residual Intradomiciliario para el control de plagas úrbanas en México"
+---
+
+# **<span style="color:#003300;"></span>** {-}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019"> 
+<span style="color:#660033;">Este documento es la versión en línea del bookdown</span><span style="color:#003300;"> **Manual del rociado intradomiciliario para el control de plagas úrbanas en México**</span><span style="color:#660033;">, es un libro diseñado para desarrollar las competencias específicas para implementar un rociado intradomiciliario con calidad y una impregnación homogénea de la superficie blanco.</span>
+<a href=""><img src="images/cover.jpg" width="150" height="300" alt="" align="right" style="margin: 0 1em 0 1em" /></a>
+  
+<span style="color:#660033;"></span>
+
+
+<span style="color:#660033;">La publicación online es inspirada por las iniciativas libres para la publicación de libros como 
+[**bookdown**](https://github.com/rstudio/bookdown) & todas las inciciativas de software libre para el análisis de datos espaciales y no espaciales como [**R**](https://cran.r-project.org/), [**RStudio**](https://www.rstudio.com/) y [**Python**](https://www.python.org/). El libro es de código abierto, asegurando que su contenido es completamente reproducible y públicamente disponible para personal de las instituciones públicas y privadas de México y el resto del mundo.</span>
+
+
+<span style="color:#660033;">La versión online del manual es mantenida en [fdzul.github.io/manual_irs_chilpancingo](https://fdzul.github.io/manual_irs_chilpancingo/) & es actualizada [GitHub Actions](https://github.com/fdzul/manual_irs_chilpancingo/actions), la cual proporciona información sobre el estatus 'build status' con:
+![](https://github.com/fdzul/manual_irs_chilpancingo/actions/workflows/blank.yml/badge.svg) ![](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffdzul%2Fmanual_hotspots.svg?type=shield)
+</span>
+
+
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019"> 
+
+<span style="color:#660033;">**Note**: El manual no ha sido publicado en físico por ninguna editorial y los autores están de acuerdo en llegar a un trato con una editorial.</span>
+
+
+# **<span style="color:#003300;">Prologo</span>**{-}
+
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019"> 
+
+# **<span style="color:#003300;">Justificación</span>**{-}
+
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019"> 
+
+<span style="color:#660033;">El rociado residual intradomiciliario (RRI) fue desarollado para el control de la malaria y se usó con éxito para la erradicación de la fiebre amarilla en Mexico. La mayoría de los manuales de RRI publicados por la Organización Mundial de la Salud son para el control de los anofelinos, y salvo raras excepciones son para el control de vectores de la leishmaniasis. Recientemente (2019), la Organización Panamericana de la Salud publicó el manual para el control de ***Aedes*** en áreas urbanas. Sin embargo el rociado residual aplica para más artrópodos con importancia en salud pública como pulgas, chinches, garrapatas, alacranes y arañas.</span>
+
+<span style="color:#660033;">La falta de manuales de rociado residual intradomiciliario para pulgas, chinches, garrapatas, alacranes y arañas constituye un área de oportunidad para generar documentos normativos que permitan integrarse a el portafolio de intervenciones en salud pública enfocado a artrópodos con importancia médica.</span>
+
+
+
+# **<span style="color:#003300;">Estructura de Manual</span>**{-}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019"> 
+
+<span style="color:#660033;"> </span>
+
+# **<span style="color:#003300;">Agradecimientos</span>**{-}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019"> 
+
+<span style="color:#660033;"> El presente manual fue producido por personal de vectores y la Subdirección de Salud Publica de la [Secretaría de Salud del Estado de Veracruz](https://www.ssaver.gob.mx/) en colaboración con la Subdirección del Programa Nacional de Vectores del [Centro de Nacional de Programas Preventivos y Control de Enfermedades](https://www.gob.mx/salud/cenaprece), el Laboratorio de Entomología del [Instituto de Diagnóstico y Referencia Epidemiológicos](https://www.gob.mx/salud/acciones-y-programas/instituto-de-diagnostico-y-referencia-epidemiologicos-indre) de la [Secretaría de Salud Federal](https://www.gob.mx/salud) y la [Dirección de Salud del Municipio de Chilpancingo]().</span>
+
+
+<span style="color:#660033;"> Los autores agradecen a la [Secretaría de Salud del Estado de Veracruz](https://www.ssaver.gob.mx/), al [Centro de Nacional de Programas Preventivos y Control de Enfermedades](https://www.gob.mx/salud/cenaprece) y el [Instituto de Diagnóstico y Referencia Epidemiológicos](https://www.gob.mx/salud/acciones-y-programas/instituto-de-diagnostico-y-referencia-epidemiologicos-indre) de la [Secretaría de Salud Federal](https://www.gob.mx/salud) por las facilidades otorgadas para poder desarrollar la presente iniciativa. </span>
+
+
+### Autores y coautores {.unnumbered} 
+
+Editor: Felipe Antonio Dzul Manzanilla
+
+Autores & Coautores: Felipe Antonio Dzul Manzanilla, Fabián Corre-Morales, Evaristo Morales-Ríos, Heron Huerta & Cipriano Gutiérrez-Castro. 
+
+### Financiamiento {.unnumbered} 
+
+El Municipio de Chilpancingo contribuyó parcialmente el financiamiento de la elaboración y edición del presente manual.
+
+
+
+# **<span style="color:#003300;">Terminos de uso & Contributiones</span>**{-}
+ 
+
+### Licencia {.unnumbered} 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licencia de Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional</a>..
+
+
+Los programas académicos, cursos y adiestramientos de las instituciones públicas o privadas son bienvenidos a usar este libro, solo notifiquenos por correo para tener conocimiento. email **felipe.dzul.m@gmail.com**.  
+
+### Como citar el trabajo {.unnumbered}
+
+
+### Contribuciones {.unnumbered}  
+
+Cualquier contribución es bienvenida, por favor de contactarnos vía Github o email.
+
+
+Nota. el manual de rociado residual intradomiciliario  fue liberado con un código de conducta [Contributor Code of Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html).
+
+

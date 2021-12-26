@@ -1,0 +1,12 @@
+# **<span style="color:#003300;"> Objetivo </span>** {#objetivos}
+
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019"> 
+
+<span style="color:#660033;">I.	Unificar y estandarizar los criterios, instrumentos, y cálculos que se requieren para la identificación de los hotspots en las áreas urbanas endémicas de dengue en México.</span>
+
+<span style="color:#660033;">II. Unificar y estandarizar los criterios, instrumentos, y cálculos que se requieren para identificación de las cadenas de transmisión en las áreas urbanas endémicas de dengue en México.</span>
+
+
+<span style="color:#660033;">III. Unificar y estandarizar los criterios, instrumentos, y cálculos que se requieren para identificación de los clusters de transmisión en las áreas urbanas endémicas de dengue  en México.</span>
+
+<span style="color:#660033;">El manual para la identificación de los hotspots en las localidades urbanas endémicas no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de las arbovirosis transmitidas por ***Aedes*** de la Secretaria de Salud de México, sino también a la comunidad académica relacionada con la investigación operativa sobre los hotspots de dengue y al público en general interesado en el tema.</span>
