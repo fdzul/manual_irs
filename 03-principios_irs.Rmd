@@ -39,7 +39,7 @@
 <span style="color:#660033;">4. Cuando las estructuras no son dispersas.</span>
 
 
-## **<span style="color:#003300;"> Elementos clave de la Aplicación de Insecticidas</span>** 
+## **<span style="color:#003300;"> Uso Sensato de los Insecticidas</span>** 
 
 ```{r, dpi=300,echo=FALSE, fig.align ="center", out.height="80%",out.width = "100%"}
 DiagrammeR::grViz("digraph {
@@ -48,14 +48,13 @@ DiagrammeR::grViz("digraph {
   graph [layout = circo, rankdir = TB]
   
   # node definitions
-  node [shape = circle, style = filled, color = grey,
-  fixedsize = true, width = 2] 
+  node [shape = circle, style = filled, color = grey, fixedsize = true, width = 2] 
   
   ###########
-  centro [label = 'Uso Sensato de Insecticidas',  fillcolor =  'DodgerBlue', color = 'white', fontcolor = 'black']
+  centro [label = 'Uso Sensato',  fillcolor =  'DodgerBlue', color = 'white', fontcolor = 'black']
   que [label = '¿Que aplicar?',  fillcolor = 'DarkOrange', color = 'white', fontcolor = 'black']
    donde [label = '¿Donde Aplicar?',  fillcolor = 'DarkOrange', color = 'white', fontcolor = 'black']
-   conque [label = '¿Con Que Aplicar?', shape = circle, style = filled, color = grey] 
+   conque [label = '¿Con Que Aplicar?', shape = circle,  fillcolor = 'DarkOrange', color = grey] 
     cuando [label = '¿Cuando Aplicar?',  fillcolor = 'DarkOrange', color = 'white', fontcolor = 'black']
    como [label = '¿Como aplicar?',  fillcolor = 'DarkOrange', color = 'white', fontcolor = 'black']
   
