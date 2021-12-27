@@ -1,3 +1,3 @@
 # (PART) Sección {-}
 
-# **<span style="color:#003300;">Equipos de aplicación </span>** {#equipment}
+# **<span style="color:#003300;">Principios Básicos del Rociado Residual </span>** {#principios_irs}
