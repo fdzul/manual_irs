@@ -7,14 +7,21 @@
 
 - **<span style="color:#660033; background=#ff0000">Eliminar, Reducir o Interrumpir la Transmisión del Agente Causal</span>**
 
-<span style="color:#660033;">En las enfemedades transmitidas por vector como dengue, chikungunya, zika, y la enfemerdad de chagas, el objetivo general del rociado residual intradomiciliario es ***eliminar, reducir o interrumpir la transmisión del agente causal***, pero en aquellas enfermedades causadas por la intoxicación por veneno de artrópodos como la intoxicación por picadura de araña o la intoxicación por picadura de alacrán el objetivo general y específico del rociado residual intradomiciliario es ***reducir o eliminar el contacto humano-artrópodo***</span>
+<span style="color:#660033;">En las enfemedades transmitidas por vector como dengue, chikungunya, zika, rickttiosis y la enfermedad de chagas, el objetivo general del rociado residual intradomiciliario es ***eliminar, reducir o interrumpir la transmisión del agente causal***, pero en aquellas enfermedades causadas por la intoxicación por veneno de artrópodos como la intoxicación por picadura de araña o la intoxicación por picadura de alacrán el objetivo general del rociado residual intradomiciliario es ***reducir o eliminar el contacto humano-artrópodo***</span>
 
 
 ## **<span style="color:#003300;">Objetivos Específicos </span>** 
 
 
- - <span style="color:#660033;">Reducir la esperanza de vida del vector a intervalos menores del periódo de incubación del agente causal.</span> 
+ - **<span style="color:#660033;">Reducir la esperanza de vida del vector a intervalos menores del periódo de incubación del agente causal.</span>**
  
- - <span style="color:#660033;">Reducir la prevalencia y densidad del vector.</span>
+ - **<span style="color:#660033;">Reducir la prevalencia del artrópodo.</span>**
  
- - <span style="color:#660033;">Reducir el contacto humano-artrópodo.</span>
+  - **<span style="color:#660033;">Reducir la densidad del artrópodo.</span>**
+ 
+ - **<span style="color:#660033;">Reducir el contacto humano-artrópodo.</span>**
+
+
+<span style="color:#660033;">El primer objetivo específico solo aplica para las enfermedades transmidas por vector, y los dos últimos objetivos específicos aplica tanto para enfermedades transmidas por vector como para las enfermedades causadas por la intoxicación por veneno de artrópodos.</span>
+
+
