@@ -18,7 +18,7 @@
 
 <span style="color:#660033;">En Mexico, el programa nacional de vectores recomienda el rociado residual para cuatro de los siete Programas de Accción Específico (Rickettiosis, IPPA, DENGUE y La Enfermedad de Chagas) y evidencia reciente sugiere que el RRI debería considerarse para los vectores de las leishmaniasis. Excepto, para el control ***Aedes aegypi***, control de anofelinos y control de ***Flebotomus***, no existen manuales para el resto de los artrópodos con importancia en salud publica</span>.
 
-<span style="color:#660033;">En el presente manual se describen los procedimientos secuenciales de la técnica de rociado residual adaptado para el control de los artrópodos con importancia en salud pública (alacranes, viudas negras, arañas violinistas, pulgas, garrapatas, y triatominos).</span>
+<span style="color:#660033;">En el presente manual se describen los procedimientos de la técnica de rociado residual adaptado para el control de cada unos de los artrópodos con importancia en salud pública (mosquitos, alacranes, viudas negras, arañas violinistas, pulgas, garrapatas, y triatominos).</span>
 
 
 
