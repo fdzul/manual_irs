@@ -11,3 +11,4 @@ elementos-clave
 elementos-clave-de-la-aplicación-de-insecticidas
 uso-sensato-de-los-insecticidas
 fig:unnamed-chunk-1
+que-aplicar
