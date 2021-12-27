@@ -1,2 +1,4 @@
 intro
 objetivos
+equipment
+principios_irs

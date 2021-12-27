@@ -1,0 +1,3 @@
+# (PART) Sección {-}
+
+# **<span style="color:#003300;">Equipos de aplicación </span>** {#equipment}
