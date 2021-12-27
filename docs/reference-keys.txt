@@ -8,3 +8,4 @@ css-color-background
 objetivos-1
 cuando-usar-el-rri
 elementos-clave
+elementos-clave-de-la-aplicación-de-insecticidas
