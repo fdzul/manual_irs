@@ -41,7 +41,7 @@
 
 ## **<span style="color:#003300;"> Uso Sensato de los Insecticidas</span>** 
 
-```{r, dpi=300,echo=FALSE, fig.align ="center", out.height="80%",out.width = "100%"}
+```{r, dpi=300,echo=FALSE, fig.align ="center", out.height="80%",out.width = "100%", fig.cap="Uso sensato de los insecticidas"}
 DiagrammeR::grViz("digraph {
 
   # graph definitions
@@ -72,5 +72,7 @@ DiagrammeR::grViz("digraph {
 
 ```
 
+
+### **<span style="color:#003300;">Que Aplicar</span>** 
 
 
