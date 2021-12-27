@@ -4,18 +4,16 @@
 
 ## **<span style="color:#003300;">Objetivo General </span>** 
 
-<span style="color:#660033;">En las enfemedades transmitidas por vector como dengue, chikungunya, zika, y la enfemerdad de chagas, el objetivo general de rociado residual intradomiciliario es ***eliminar, reducir o interrumpir la transmisión del agente causal***, pero en aquellas enfermedades causadas por la intoxicación por veneno de artrópodos como la intoxicación por picadura de araña o intoxicación por picadura de alacrán el objetivo general de rociado residual intradomiciliario es ***reducir o eliminar el contacto humano-artrópodo***</span>
 
+**<span style="color:#660033; background=#ff0000">Eliminar, Reducir o Interrumpir la Transmisión del Agente Causal</span>**
 
+<span style="color:#660033;">En las enfemedades transmitidas por vector como dengue, chikungunya, zika, y la enfemerdad de chagas, el objetivo general de rociado residual intradomiciliario es ***eliminar, reducir o interrumpir la transmisión del agente causal***, pero en aquellas enfermedades causadas por la intoxicación por veneno de artrópodos como la intoxicación por picadura de araña o la intoxicación por picadura de alacrán el objetivo general de rociado residual intradomiciliario es ***reducir o eliminar el contacto humano-artrópodo***</span>
 
-:::: {.center data-latex=""}
-
-::: {.minipage data-latex="{.5\linewidth}"}
-
-***eliminar, reducir o interrumpir la transmisión del agente causal***
-:::
-
-::::
 
 ## **<span style="color:#003300;">Objetivos específicos </span>** 
 
+
+ Reducir la esperanza de vida del vector a intervalos menores del periodo de incubación del agente causal. 
+ Reducir la prevalencia 
+ Reducir la densidad del vector.
+ Reducir el contacto humano-vector.
