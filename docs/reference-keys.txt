@@ -2,3 +2,5 @@ intro
 objetivos
 equipment
 principios_irs
+objetivo-general
+objetivos-específicos

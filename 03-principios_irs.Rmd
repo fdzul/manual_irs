@@ -1,3 +1,15 @@
 # (PART) Sección {-}
 
-# **<span style="color:#003300;">Principios Básicos del Rociado Residual </span>** {#principios_irs}
+# **<span style="color:#003300;">Principios Básicos</span>** {#principios_irs}
+
+## **<span style="color:#003300;">Objetivo General </span>** 
+
+En las enfemedades transmitidas por vector como dengue, chikungunya, zika, y la enfemerdad de chagas, el objetivo general de rociado residual intradomiciliario es ***eliminar, reducir o interrumpir la transmisión del agente causal***, pero en aquellas enfermedades causadas por la intoxicación por veneno de artrópodos como la intoxicación por picadura de araña o intoxicación por picadura de alacrán el objetivo general de rociado residual intradomiciliario es ***reducir o eliminar el contacto humano-artrópodo***
+
+
+<span style="color:#660033;">I.	Unificar y estandarizar los criterios, instrumentos, y cálculos que se requieren para realizar el rociado residual en los artrópodos con importancia en salud publica.</span>
+
+
+
+## **<span style="color:#003300;">Objetivos específicos </span>** 
+
