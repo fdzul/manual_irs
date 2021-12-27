@@ -38,3 +38,12 @@
 
 <span style="color:#660033;">4. Cuando las estructuras no son dispersas.</span>
 
+
+## **<span style="color:#003300;"> Elementos clave de la Aplicación de Insecticidas</span>** 
+
+```{r}
+
+```
+
+
+
