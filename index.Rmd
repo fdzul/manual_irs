@@ -17,7 +17,7 @@ description: "El manual describe el Rociado Residual Intradomiciliario para el c
 # **<span style="color:#003300;"></span>** {-}
 <hr style="height:2px;border-width:0;color:#330019;background-color:#330019"> 
 <span style="color:#660033;">Este documento es la versión en línea del bookdown</span><span style="color:#003300;"> **Manual del rociado intradomiciliario para el control de plagas úrbanas en México**</span><span style="color:#660033;">, es un libro diseñado para desarrollar las competencias específicas para implementar un rociado intradomiciliario con calidad y una impregnación homogénea de la superficie blanco.</span>
-<a href=""><img src="imagenes/cover.jpg" width="20px" height="20px"  alt="" align="right" style="margin: 0 1em 0 1em" /></a>
+<a href=""><img src="imagenes/cover.jpg" width="500px" height="500px"  alt="" align="right" style="margin: 0 1em 0 1em" /></a>
   
 <span style="color:#660033;"></span>
 
