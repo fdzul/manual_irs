@@ -5,3 +5,5 @@ principios_irs
 objetivo-general
 objetivos-específicos
 css-color-background
+objetivos-1
+cuando-usar-el-rri
