@@ -75,7 +75,7 @@ DiagrammeR::grViz("digraph {
 El uso de insecticidas para el control los artrópodos con importancia en Salud Pública, es un tema altamente especializado y complejo (OMS, 2012). La Organización Mundial de la Salud ha desarrollado las directrices generales para que los países miembros tengan las bases para implementar programas de salud pública que considere el uso sensato de los insecticidas. 
 Las desviaciones del uso sensato de insecticidas incrementa el riesgo de consecuencias no deseadas en la población que se desea proteger con estos insecticidas, a los aplicadores del programa, al ambiente donde está inmersa la triada epidemiológica, a la economia del programa y la nación, y a los equipos de aplicación.
 
-Bajo esta óptica para implementar un programa de prevención y control de las enfemedades transmitidas por vector o las enfermedades causadas por la intoxicación por veneno de artrópodos, se requiere tener claro las cinco prueguntas que plantea el esquema del uso sensato de los insecticidas (que usar, como usarlo, cuando usarlo, donde usarlo y con que aplicar.
+Bajo esta óptica, para implementar un programa de prevención y control de las enfemedades transmitidas por vector o las enfermedades causadas por la intoxicación por veneno de artrópodos, se requiere tener claro las cinco prueguntas que plantea el esquema del uso sensato de los insecticidas (que usar, como usarlo, cuando usarlo, donde usarlo y con que aplicar.
 
 
 ### **<span style="color:#003300;">Que aplicar</span>** 
